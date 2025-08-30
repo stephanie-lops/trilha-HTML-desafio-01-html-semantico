@@ -40,7 +40,7 @@ O objetivo deste desafio foi **elaborar um website básico**, utilizando as tags
 ## Como Executar Localmente  
 1. Clone este repositório:  
    ```bash
-   git clone https://github.com/trilha-HTML-desafio-01-html-semantico
+   git clone https://github.com/trilha-HTML-desafio-01-html-semantico.git
 
 2. Acesse a pasta do projeto:
    ```bash
